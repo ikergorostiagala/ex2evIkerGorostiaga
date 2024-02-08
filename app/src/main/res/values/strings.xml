@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex2evIkerGorostiaga</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descripcion_info_la_peña">La Peña (en euskera: Abusu) es un barrio perteneciente a dos municipios distintos, el de Arrigorriaga y el de Bilbao, ambos en Vizcaya en el País Vasco (España), el cual a su vez, forma parte del distrito de Ibaiondo (distrito 5). Tiene 7.697 habitantes1​ y una extensión de 46.57 hectáreas. Se extiende a lo largo de la orilla izquierda del Nervión desde Urazurrutia/Zamácola en dirección a Bolueta o Basauri. También forma parte de este barrio las zonas de Santa Isabel, Olatxu y Ollargan. El origen del nombre de La Peña viene del nombre de una ermita que se fundó en el barrio de Abusu, perteneciente a la anteiglesia de Arrigorriaga, llamada Ermita de Nuestra Señora de La Peña de Francia[cita requerida] Había una antigua isla en el río Nervión que se llamaba Isla de San Cristóbal. Dicha isla desapareció con el encaucamiento del río después de las inundaciones de 1983. Después de las inundaciones de 1983 y debido a los daños que causaron en el barrio, se desvió el río hacia un nuevo cauce de mayor capacidad. El espacio entre el barrio y la isla se rellenó creándose el Parque de Ibaieder.</string>
+    <string name="info_la_peña_default">Titulo</string>
+    <string name="btn_volver_mapa_texto">Volver al mapa</string>
+</resources>
